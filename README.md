@@ -30,8 +30,7 @@ Publish the website in the LocalHost.
 
 # PROGRAM:
 ```
-[10:24 AM, 11/25/2024] 𝐌𝐀𝐒𝐒 𝐌𝐈𝐑𝐓𝐘𝐔𝐍: Hii
-[10:42 AM, 11/25/2024] Arun Web Classmate: !DOCTYPE html>
+ !DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
